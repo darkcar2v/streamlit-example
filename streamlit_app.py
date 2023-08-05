@@ -6,4 +6,4 @@ import datetime
 import streamlit as st
 
 import colored
-print(colored(""" ## CLASSIC FITNESS CENTER ANALYTICS BOARD """, 'orange'))
+print(colored(""" # CLASSIC FITNESS CENTER ANALYTICS BOARD """, 'orange'))
